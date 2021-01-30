@@ -1,0 +1,14 @@
+.shop{
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    width: 200px;
+}
+
+.line{
+    color: red;
+}
+
+.t{
+    letter-spacing: 2px;
+}

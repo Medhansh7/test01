@@ -1,0 +1,23 @@
+.footer-main{
+    background-color: rgb(56,56,56);
+   height: 180px;
+   padding-top: 10px;
+}
+
+.te{
+    color: white;
+}
+.btn-primary{
+    background-color: rgb(170,170,170);
+    border-radius: 25px;
+    color: black;
+    width: 150px;
+}
+
+input{
+    max-width: 600px;
+}
+
+.e{
+    padding-top: 40px;
+}
